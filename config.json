@@ -12,18 +12,17 @@
     ],
     "eventDisabled": [
         "join.js"
-    ],
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "🌶️𝐁𝐚𝐬𝐚𝐧𝐭𝐢 𝐭𝐞𝐫𝐢 𝐦𝐚𝐮𝐭🌶️",
+    "BOTNAME": "Cheery ki jaan 😉❤",
     "PREFIX": ".",
     "ADMINBOT": [
-        "61574566546759"
-        
+        "100081173342959"
+    
     ],
     "NDH": [
-        "61574566546759"
+        "100081173342959"
     ],
     "DATABASE": {
         "sqlite": {
@@ -230,5 +229,5 @@
     "help2": {
         "autoUnsend": true,
         "delayUnsend": 300
-    }
-}
+    }100081173342959
+}100081173342959
